@@ -1,1 +1,1 @@
-web gunicorn OOPPSDLWk13:app
+web gunicorn OOPPSDL:app
